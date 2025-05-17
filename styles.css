@@ -30,7 +30,7 @@ main {
 
     outline: solid 1px hsl(0, 0%, 7%);
 
-    filter: drop-shadow(16px 16px hsl(0, 0%, 7%));
+    filter: drop-shadow(9px 9px hsl(0, 0%, 7%));
 }
 
 .card > * {
